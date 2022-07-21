@@ -1,1 +1,2 @@
 # PhysicsPlayground
+Some basic experimentation in Unity 3D, scripts are in C#. The generated prefabs are not exactly artistic – I wanted to mess around with physics using basic 3D models. The goal was to consider if this would be a suitable platform for theatrical renderings, as there is an option of rendering a more polished model in Blender (or sketchup, for set pieces) before importing it to Unity.
